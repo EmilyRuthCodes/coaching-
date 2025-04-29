@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 some changes
-=======
 these are some changes
->>>>>>> cara
+test test test 
+hello hello hello
